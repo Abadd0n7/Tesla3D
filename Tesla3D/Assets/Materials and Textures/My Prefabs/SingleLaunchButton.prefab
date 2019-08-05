@@ -156,9 +156,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef733ad7a11bd8242b80334edea741ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  btn: {fileID: 8865975845858634361}
+  button: {fileID: 8865975845858634361}
   text: {fileID: 8865975846420146062}
-  img: {fileID: 8865975845858634358}
+  image: {fileID: 8865975845858634358}
 --- !u!1 &8865975846420146064
 GameObject:
   m_ObjectHideFlags: 0
@@ -258,7 +258,7 @@ MonoBehaviour:
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 15
-  m_fontSizeMax: 72
+  m_fontSizeMax: 150
   m_fontStyle: 0
   m_textAlignment: 514
   m_characterSpacing: 0

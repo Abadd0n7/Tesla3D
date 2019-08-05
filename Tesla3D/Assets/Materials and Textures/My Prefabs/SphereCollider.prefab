@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4608035032542502856}
   - component: {fileID: 4608035032542502857}
-  - component: {fileID: 4608035032542502858}
   m_Layer: 0
   m_Name: SphereCollider
   m_TagString: Sphere
@@ -46,20 +45,6 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 16.75
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &4608035032542502858
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4608035032542502863}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9fb9376e744c39a42bcb061a1d8d0cde, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  go:
-  - {fileID: 6993438370345428164}
 --- !u!1001 &4608035032270878281
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -83,7 +68,7 @@ PrefabInstance:
     - target: {fileID: 6845093577748976269, guid: 856c6f756417f674aa69f622fc05db0f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6845093577748976269, guid: 856c6f756417f674aa69f622fc05db0f,
         type: 3}
@@ -147,12 +132,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 856c6f756417f674aa69f622fc05db0f, type: 3}
---- !u!1 &6993438370345428164 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6845093577748976269, guid: 856c6f756417f674aa69f622fc05db0f,
-    type: 3}
-  m_PrefabInstance: {fileID: 4608035032270878281}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &999652186704852900 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3615402231025861101, guid: 856c6f756417f674aa69f622fc05db0f,

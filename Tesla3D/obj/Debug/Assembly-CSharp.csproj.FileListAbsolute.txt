@@ -3,6 +3,8 @@ D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\Assembly-
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\mscorlib.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\netstandard.dll
+D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\Newtonsoft.Json.dll
+D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\OrbitalElements.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\System.AppContext.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\System.Collections.Concurrent.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\System.Collections.dll
@@ -134,8 +136,6 @@ D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngi
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.AudioModule.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.ClothModule.dll
-D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
-D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.CoreModule.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.DirectorModule.dll
@@ -185,6 +185,8 @@ D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngi
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.VRModule.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.WindModule.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\Unity.Cecil.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\Unity.SerializationLogic.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
@@ -210,8 +212,6 @@ D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngi
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.AudioModule.xml
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.ClothModule.xml
-D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
-D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.CoreModule.xml
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
@@ -260,11 +260,11 @@ D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngi
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.VideoModule.xml
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.WindModule.xml
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\Newtonsoft.Json.xml
+D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\obj\Debug\Assembly-CSharp.dll
 D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\obj\Debug\Assembly-CSharp.pdb
-D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\Newtonsoft.Json.dll
-D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\Newtonsoft.Json.xml
-D:\Programy\Unity3d\My Projects\Tesla3D\lpytlak\Tesla3D\Temp\bin\Debug\OrbitalElements.dll
